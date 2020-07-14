@@ -1,0 +1,24 @@
+h1 {
+    color:red;
+    text-align: center;
+    font-size: 50px;
+}
+h2 {
+    margin-left: 20%;
+}
+p {
+    color: blue;
+    text-indent: 32px;
+    font-size: 20px;
+    line-height: 32px;
+    color: black;
+}
+body {
+    background-image: url("http://image.baidu.com/search/detail?ct=503316480&z=0&tn=baiduimagedetail&ipn=d&word=%E5%A3%81%E7%BA%B8&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=-1&hd=0&latest=0&copyright=0&cs=3302399998,3216746631&os=2895900499,4029567255&simid=3360974126,211103994&pn=1&rn=1&di=187550&ln=3776&fr=&fmq=1567133149621_R&ic=0&s=undefined&se=&sme=&tab=0&width=&height=&face=undefined&is=0,0&istype=2&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=http%3A%2F%2Fattach.bbs.miui.com%2Fforum%2F201312%2F31%2F111859myvyiivetyftfz2n.jpg&rpstart=0&rpnum=0&adpicid=0&force=undefined");
+    text-align: center;
+}
+img {
+    position: absolute;
+    left: 50%;
+    margin-left: -181px;
+}
